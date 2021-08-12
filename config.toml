@@ -1,0 +1,12 @@
+server="杭州网"
+urls="http://wechat.hangzhou.com.cn|http://wpds.hangzhou.com.cn"
+[mailserver]
+host="smtp.qq.com"
+port="465"
+user="@qq.com"
+pass=""
+
+[mailto]
+users="120235331@qq.com"
+subject="来自定时任务的邮件"
+
